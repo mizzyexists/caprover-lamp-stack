@@ -7,5 +7,5 @@
   <br/>
   <h2>Installation</h2>
   <p>Simply deploy your CapRover container with <code>mizzydev/caprover-lamp:latest</code></p>
-  <p>Make sure to check <strong>"Has Persistent Data"</strong> and setup a physical volume that links to <code>/var/www/html</code></p>
+  <p>Make sure to check <strong>"Has Persistent Data"</strong> and setup a persistent directory that links to <code>/var/www/html</code></p>
 </div>
